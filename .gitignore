@@ -1,0 +1,38 @@
+# Logs
+logs/
+*.log
+
+# Crash reports
+crash-reports/
+
+# Runtime cache
+cache/
+
+# Temporary files
+tmp/
+temp/
+
+# Java dumps
+*.hprof
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+venv/
+__pycache__/
+
+# FRP logs
+frp/**/*.log
+
+# Dashboard logs
+dashboard/logs/
+
+# Backup zips
+*.zip
+*.tar.gz
