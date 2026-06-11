@@ -75,7 +75,7 @@ Bedrock Clients
 
 minecraft/
 
-├── java-server/
+├── server/
 
 ├── backups/
 
