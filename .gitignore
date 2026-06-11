@@ -36,3 +36,10 @@ dashboard/logs/
 # Backup zips
 *.zip
 *.tar.gz
+
+usercache.json
+versions/
+
+libraries/
+
+.console_history
