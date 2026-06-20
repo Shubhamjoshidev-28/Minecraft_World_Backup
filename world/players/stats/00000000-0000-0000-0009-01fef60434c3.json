@@ -1,0 +1,106 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:dirt": 896,
+      "minecraft:cobblestone": 67,
+      "minecraft:bucket": 1,
+      "minecraft:white_bed": 1,
+      "minecraft:stone_pickaxe": 6,
+      "minecraft:oak_log": 3,
+      "minecraft:firefly_bush": 2,
+      "minecraft:potato": 8,
+      "minecraft:wheat_seeds": 105,
+      "minecraft:porkchop": 3,
+      "minecraft:stick": 11,
+      "minecraft:poppy": 1,
+      "minecraft:wooden_sword": 1,
+      "minecraft:cooked_beef": 67,
+      "minecraft:white_wool": 3,
+      "minecraft:oak_planks": 11,
+      "minecraft:black_wool": 1,
+      "minecraft:cooked_porkchop": 11,
+      "minecraft:crafting_table": 1,
+      "minecraft:oak_sapling": 8,
+      "minecraft:apple": 2,
+      "minecraft:stone_sword": 8,
+      "minecraft:stone_axe": 15,
+      "minecraft:dandelion": 2,
+      "minecraft:wheat": 27,
+      "minecraft:mutton": 3
+    },
+    "minecraft:broken": {
+      "minecraft:stone_shovel": 1,
+      "minecraft:stone_axe": 2,
+      "minecraft:stone_sword": 1,
+      "minecraft:stone_pickaxe": 6
+    },
+    "minecraft:dropped": {
+      "minecraft:potato": 24,
+      "minecraft:wheat_seeds": 3,
+      "minecraft:stone_sword": 2
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 26,
+      "minecraft:iron_golem": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 160,
+      "minecraft:stone_shovel": 236,
+      "minecraft:stone_sword": 61,
+      "minecraft:cooked_beef": 6,
+      "minecraft:apple": 1,
+      "minecraft:wooden_sword": 35,
+      "minecraft:poppy": 1,
+      "minecraft:porkchop": 3,
+      "minecraft:stone_pickaxe": 461,
+      "minecraft:dirt": 11
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 42482,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 5,
+      "minecraft:damage_taken": 7758,
+      "minecraft:time_since_death": 44888,
+      "minecraft:interact_with_furnace": 1,
+      "minecraft:sleep_in_bed": 2,
+      "minecraft:total_world_time": 112879,
+      "minecraft:swim_one_cm": 4163,
+      "minecraft:crouch_one_cm": 3599,
+      "minecraft:climb_one_cm": 4215,
+      "minecraft:deaths": 27,
+      "minecraft:player_kills": 9,
+      "minecraft:walk_one_cm": 652779,
+      "minecraft:walk_under_water_one_cm": 858,
+      "minecraft:play_time": 112879,
+      "minecraft:damage_dealt": 3882,
+      "minecraft:jump": 1048,
+      "minecraft:drop": 4,
+      "minecraft:bell_ring": 16,
+      "minecraft:sprint_one_cm": 364316,
+      "minecraft:open_chest": 71,
+      "minecraft:fall_one_cm": 16292,
+      "minecraft:fly_one_cm": 65848,
+      "minecraft:walk_on_water_one_cm": 7353,
+      "minecraft:sneak_time": 3109
+    },
+    "minecraft:killed": {
+      "minecraft:pig": 2,
+      "minecraft:sheep": 2,
+      "minecraft:villager": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 19,
+      "minecraft:firefly_bush": 1,
+      "minecraft:wall_torch": 1,
+      "minecraft:oak_leaves": 11,
+      "minecraft:dirt": 341,
+      "minecraft:poppy": 1,
+      "minecraft:glass": 1,
+      "minecraft:grass_block": 580,
+      "minecraft:oak_fence": 2,
+      "minecraft:wheat": 44,
+      "minecraft:stone": 3
+    }
+  },
+  "DataVersion": 4790
+}
