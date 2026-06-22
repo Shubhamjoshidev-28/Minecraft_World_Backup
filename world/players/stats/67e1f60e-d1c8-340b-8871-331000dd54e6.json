@@ -1,0 +1,109 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:sweet_berries": 5,
+      "minecraft:dirt": 41,
+      "minecraft:cobblestone": 214,
+      "minecraft:sugar_cane": 123,
+      "minecraft:bone": 4,
+      "minecraft:torch": 2,
+      "minecraft:water_bucket": 1,
+      "minecraft:stone_pickaxe": 6,
+      "minecraft:wooden_axe": 2,
+      "minecraft:potato": 40,
+      "minecraft:sand": 1,
+      "minecraft:wheat_seeds": 335,
+      "minecraft:piston": 16,
+      "minecraft:lily_pad": 2,
+      "minecraft:stick": 6,
+      "minecraft:stone_hoe": 1,
+      "minecraft:cooked_beef": 39,
+      "minecraft:stone_shovel": 6,
+      "minecraft:arrow": 6,
+      "minecraft:oak_sapling": 16,
+      "minecraft:rotten_flesh": 4,
+      "minecraft:cobblestone_slab": 12,
+      "minecraft:stone_sword": 4,
+      "minecraft:stone_axe": 10,
+      "minecraft:dandelion": 2,
+      "minecraft:wheat": 107,
+      "minecraft:gunpowder": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:stone_shovel": 2,
+      "minecraft:wheat_seeds": 333,
+      "minecraft:stone_sword": 1,
+      "minecraft:cooked_beef": 23,
+      "minecraft:stone_hoe": 1,
+      "minecraft:stone_pickaxe": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 2,
+      "minecraft:piston": 17,
+      "minecraft:sand": 1,
+      "minecraft:oak_leaves": 3,
+      "minecraft:cobblestone_slab": 13,
+      "minecraft:dirt": 10,
+      "minecraft:grass_block": 53,
+      "minecraft:wheat": 2,
+      "minecraft:farmland": 4,
+      "minecraft:cobblestone": 78,
+      "minecraft:sugar_cane": 64
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:oak_planks": 256,
+      "minecraft:cobblestone_slab": 252,
+      "minecraft:piston": 17
+    },
+    "minecraft:used": {
+      "minecraft:stone_shovel": 60,
+      "minecraft:stone_sword": 81,
+      "minecraft:cooked_beef": 14,
+      "minecraft:sweet_berries": 5,
+      "minecraft:water_bucket": 109,
+      "minecraft:piston": 33,
+      "minecraft:bucket": 109,
+      "minecraft:cobblestone_slab": 157,
+      "minecraft:sugar_cane": 3,
+      "minecraft:stone_pickaxe": 113,
+      "minecraft:dirt": 6,
+      "minecraft:cobblestone": 384
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 34517,
+      "minecraft:walk_one_cm": 108416,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 4445,
+      "minecraft:mob_kills": 10,
+      "minecraft:damage_taken": 1402,
+      "minecraft:play_time": 68590,
+      "minecraft:damage_dealt": 2959,
+      "minecraft:jump": 1055,
+      "minecraft:time_since_death": 32984,
+      "minecraft:drop": 34,
+      "minecraft:sprint_one_cm": 136807,
+      "minecraft:open_chest": 44,
+      "minecraft:fall_one_cm": 29637,
+      "minecraft:total_world_time": 68590,
+      "minecraft:swim_one_cm": 6935,
+      "minecraft:fly_one_cm": 236637,
+      "minecraft:walk_on_water_one_cm": 16266,
+      "minecraft:crouch_one_cm": 30590,
+      "minecraft:sneak_time": 13694,
+      "minecraft:climb_one_cm": 154,
+      "minecraft:deaths": 1,
+      "minecraft:player_kills": 9
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 6,
+      "minecraft:skeleton": 2,
+      "minecraft:creeper": 1,
+      "minecraft:spider": 1
+    }
+  },
+  "DataVersion": 4790
+}
