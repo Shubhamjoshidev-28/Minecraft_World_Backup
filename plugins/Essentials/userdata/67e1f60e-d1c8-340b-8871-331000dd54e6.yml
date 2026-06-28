@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782671140859
+  login: 1782670533443
+money: '0'
+last-account-name: Iskaulla
+logoutlocation:
+  world: 4302d3cc-e3e4-4477-985a-89e528bacd8f
+  world-name: world
+  x: -868.8415041508257
+  y: 75.0
+  z: 1243.6512839674565
+  yaw: 84.90097045898438
+  pitch: 11.100053787231445
+lastlocation:
+  world: 4302d3cc-e3e4-4477-985a-89e528bacd8f
+  world-name: world
+  x: -156.82504710012657
+  y: 89.0
+  z: -47.1551063987206
+  yaw: 144.75006103515625
+  pitch: 14.100019454956055

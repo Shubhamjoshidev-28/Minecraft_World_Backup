@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782671170761
+  login: 1782671148416
+money: '0'
+last-account-name: .Arhmoorha
+lastlocation:
+  world: 4302d3cc-e3e4-4477-985a-89e528bacd8f
+  world-name: world
+  x: 846.1293
+  y: 64.0
+  z: 1302.7
+  yaw: -51.18408203125
+  pitch: -23.71221923828125
+logoutlocation:
+  world: 4302d3cc-e3e4-4477-985a-89e528bacd8f
+  world-name: world
+  x: -873.88654
+  y: 81.0
+  z: 1244.3494
+  yaw: 22.412109375
+  pitch: 42.64045715332031
