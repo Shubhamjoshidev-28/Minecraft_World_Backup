@@ -1,12 +1,43 @@
 {
   "stats": {
-    "minecraft:crafted": {
-      "minecraft:cobblestone_slab": 144,
-      "minecraft:iron_axe": 1
+    "minecraft:killed": {
+      "minecraft:chicken": 1
     },
     "minecraft:dropped": {
       "minecraft:stone_shovel": 1,
+      "minecraft:wheat_seeds": 2,
       "minecraft:wheat": 201
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 7340,
+      "minecraft:leave_game": 21,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 5083,
+      "minecraft:time_since_death": 10379,
+      "minecraft:sleep_in_bed": 5,
+      "minecraft:total_world_time": 200674,
+      "minecraft:swim_one_cm": 4539,
+      "minecraft:climb_one_cm": 5433,
+      "minecraft:deaths": 16,
+      "minecraft:player_kills": 1,
+      "minecraft:interact_with_crafting_table": 5,
+      "minecraft:walk_one_cm": 715688,
+      "minecraft:horse_one_cm": 2643,
+      "minecraft:walk_under_water_one_cm": 18480,
+      "minecraft:play_time": 200674,
+      "minecraft:damage_dealt": 1402,
+      "minecraft:jump": 1472,
+      "minecraft:drop": 6,
+      "minecraft:sprint_one_cm": 616127,
+      "minecraft:open_chest": 79,
+      "minecraft:fall_one_cm": 50356,
+      "minecraft:fly_one_cm": 64386,
+      "minecraft:walk_on_water_one_cm": 29603,
+      "minecraft:sneak_time": 245
+    },
+    "minecraft:crafted": {
+      "minecraft:cobblestone_slab": 144,
+      "minecraft:iron_axe": 1
     },
     "minecraft:mined": {
       "minecraft:dirt": 23,
@@ -16,39 +47,12 @@
       "minecraft:gravel": 8,
       "minecraft:short_grass": 4,
       "minecraft:sand": 1,
-      "minecraft:oak_leaves": 44,
+      "minecraft:oak_leaves": 49,
       "minecraft:cobblestone_slab": 9,
       "minecraft:potatoes": 191,
-      "minecraft:oak_log": 65,
+      "minecraft:oak_log": 66,
       "minecraft:stone": 73,
       "minecraft:oak_door": 1
-    },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 1866,
-      "minecraft:leave_game": 18,
-      "minecraft:mob_kills": 1,
-      "minecraft:damage_taken": 3744,
-      "minecraft:time_since_death": 1834,
-      "minecraft:sleep_in_bed": 4,
-      "minecraft:total_world_time": 182437,
-      "minecraft:swim_one_cm": 4539,
-      "minecraft:climb_one_cm": 4447,
-      "minecraft:deaths": 11,
-      "minecraft:player_kills": 1,
-      "minecraft:interact_with_crafting_table": 5,
-      "minecraft:walk_one_cm": 624838,
-      "minecraft:horse_one_cm": 2643,
-      "minecraft:walk_under_water_one_cm": 18480,
-      "minecraft:play_time": 182437,
-      "minecraft:damage_dealt": 1219,
-      "minecraft:jump": 1271,
-      "minecraft:drop": 5,
-      "minecraft:sprint_one_cm": 527700,
-      "minecraft:open_chest": 79,
-      "minecraft:fall_one_cm": 42425,
-      "minecraft:fly_one_cm": 58495,
-      "minecraft:walk_on_water_one_cm": 29187,
-      "minecraft:sneak_time": 245
     },
     "minecraft:picked_up": {
       "minecraft:poisonous_potato": 3,
@@ -58,23 +62,23 @@
       "minecraft:sugar_cane": 15,
       "minecraft:gravel": 7,
       "minecraft:torch": 1,
-      "minecraft:oak_log": 63,
+      "minecraft:oak_log": 64,
       "minecraft:potato": 716,
       "minecraft:sand": 4,
       "minecraft:baked_potato": 100,
-      "minecraft:wheat_seeds": 1325,
+      "minecraft:wheat_seeds": 1327,
       "minecraft:oak_door": 2,
       "minecraft:egg": 1,
       "minecraft:ink_sac": 9,
-      "minecraft:stick": 18,
+      "minecraft:stick": 28,
       "minecraft:white_wool": 1,
       "minecraft:feather": 3,
       "minecraft:chicken": 3,
       "minecraft:stone_shovel": 2,
       "minecraft:iron_axe": 3,
-      "minecraft:oak_sapling": 21,
+      "minecraft:oak_sapling": 92,
       "minecraft:cobblestone_slab": 155,
-      "minecraft:apple": 4,
+      "minecraft:apple": 5,
       "minecraft:stone_sword": 2,
       "minecraft:stone_axe": 7,
       "minecraft:ladder": 6,
@@ -82,10 +86,7 @@
       "minecraft:mutton": 1
     },
     "minecraft:killed_by": {
-      "minecraft:player": 9
-    },
-    "minecraft:killed": {
-      "minecraft:chicken": 1
+      "minecraft:player": 12
     },
     "minecraft:used": {
       "minecraft:iron_axe": 296,
@@ -96,7 +97,7 @@
       "minecraft:potato": 542,
       "minecraft:cobblestone": 1,
       "minecraft:wheat_seeds": 1538,
-      "minecraft:oak_sapling": 8,
+      "minecraft:oak_sapling": 41,
       "minecraft:egg": 1,
       "minecraft:stone_pickaxe": 85,
       "minecraft:dirt": 82,

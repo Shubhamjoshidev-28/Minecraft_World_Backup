@@ -17,8 +17,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1782930833626
-  login: 1782929100181
+  logout: 1782991283833
+  login: 1782991210914
 money: '0'
 last-account-name: .LummyGujjar
 lastlocation:
@@ -32,8 +32,8 @@ lastlocation:
 logoutlocation:
   world: 4302d3cc-e3e4-4477-985a-89e528bacd8f
   world-name: world
-  x: -832.4619
-  y: 63.0
-  z: 1293.3033
-  yaw: 131.3986053466797
-  pitch: -44.10374450683594
+  x: -875.7008
+  y: 64.0
+  z: 1243.1453
+  yaw: -179.34970092773438
+  pitch: 34.112213134765625
