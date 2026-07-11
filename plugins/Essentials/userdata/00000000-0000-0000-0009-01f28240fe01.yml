@@ -17,8 +17,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1783075870515
-  login: 1783074635346
+  logout: 1783098747813
+  login: 1783097099467
 money: '0'
 last-account-name: .Sasuskalam
 lastlocation:
@@ -32,8 +32,8 @@ lastlocation:
 logoutlocation:
   world: 4302d3cc-e3e4-4477-985a-89e528bacd8f
   world-name: world
-  x: -802.47516
+  x: -834.5962
   y: 63.0
-  z: 1269.0813
-  yaw: 48.603118896484375
-  pitch: 29.906906127929688
+  z: 1298.9308
+  yaw: 59.748809814453125
+  pitch: 12.061325073242188
