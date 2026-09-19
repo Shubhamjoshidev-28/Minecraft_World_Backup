@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1789825956037
+  login: 1789825678120
+money: '0'
+last-account-name: kirat
+logoutlocation:
+  world: 4302d3cc-e3e4-4477-985a-89e528bacd8f
+  world-name: world
+  x: -2109.699999988079
+  y: -4.0
+  z: 856.6999999880791
+  yaw: -26.35821533203125
+  pitch: -89.8499984741211
